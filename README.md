@@ -1,2 +1,3 @@
-# http-server-python
+# HTTP Server Python
+
 A simple HTTP server in Python.
